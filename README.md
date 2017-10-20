@@ -1,5 +1,7 @@
 # selenium-practical-notes
-Brief tutorial and practical notes on manual Selenium coding, currently in Java
+Brief tutorial and practical notes on manual Selenium coding in Java
+
+Located in the Wiki: https://github.com/ramendik/selenium-practical-notes/wiki
 
 By Mikhail Ramendik
 
